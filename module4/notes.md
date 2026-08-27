@@ -1,0 +1,1 @@
+In this module, I set up my Git and committed my work from the prior modules. 
